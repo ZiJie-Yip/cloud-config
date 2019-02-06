@@ -3,5 +3,3 @@ zuul:
     myProduct:
       path: /myProduct/**
       serviceId: product
-  ignoredPatterns:
-    - /product/product/list
