@@ -1,8 +1,5 @@
-
 zuul:
   routes:
     myProduct:
       path: /myProduct/**
       serviceId: product
-  ignoredPatterns:
-    - /product/product/list
